@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../../../../../source/repos/EFCorePractice/ECommerceSystem/ECommerceSystem.csproj" />
+  <Project Path="../../../../../../source/repos/EFCorePractice/LibrarySystem/LibrarySystem.csproj" />
+</Solution>
